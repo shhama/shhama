@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/shhama">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VKONTAKTE-white?logo=VK&logoColor=blue&style=for-the-badge" alt="VK Badge"/>
   </a>
   <a href="https://www.instagram.com/hrtllss">
     <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=pink&style=for-the-badge" alt="instagram Badge"/>
