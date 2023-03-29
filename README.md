@@ -3,7 +3,7 @@
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/shhama">
     <img src="https://img.shields.io/badge/Вконтакте-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
