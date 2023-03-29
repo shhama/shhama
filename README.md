@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="100"/>
 </div>
+
 ---
 
 <div id="badges" align="center">
@@ -22,5 +23,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/frNC8HLtwZjOLLPbV7/giphy.gif" width="600" height="300"/>
 </div>
----  
+
+--- 
+  
 ### :feelsgood: About Me :
