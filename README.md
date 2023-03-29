@@ -25,7 +25,4 @@
 </div>
 
   
----
-  
-  
-### :feelsgood:: About Me :
+### :feelsgood: About Me :
