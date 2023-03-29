@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/frNC8HLtwZjOLLPbV7/giphy.gif" width="600" height="300"/>
 </div>
 
---- 
+---
   
-### p<. :feelsgood: About Me :
-p<. I am a beginner Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+:feelsgood:
+<div style="text-align: right"> :feelsgood: About me </div>
