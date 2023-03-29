@@ -1,3 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="100"/>
 </div>
+
+
+<div id="badges">
+  <a href="https://vk.com/shhama">
+    <img src="https://img.shields.io/badge/Вконтакте-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+  </a>
+  <a href="https://www.instagram.com/hrtllss">
+    <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=pink&style=for-the-badge" alt="instagram Badge"/>
+  </a>
+  <a href="https://t.me/s_hhama">
+    <img src="https://img.shields.io/badge/telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
