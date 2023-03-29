@@ -26,5 +26,4 @@
 
 ---
   
-:feelsgood:
-<div style="text-align: right"> :feelsgood: About me </div>
+<div style="text-align: left"> :feelsgood: About me </div>
