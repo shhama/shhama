@@ -18,3 +18,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=shhama&style=flat-square&color=blue" alt=""/>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy.gif" width="600" height="300"/>
+</div>
