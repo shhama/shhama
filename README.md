@@ -4,6 +4,7 @@
 
 
 <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=shhama&style=flat-square&color=blue" alt=""/>
   <a href="https://vk.com/shhama">
     <img src="https://img.shields.io/badge/VKONTAKTE-white?logo=VK&logoColor=blue&style=for-the-badge" alt="VK Badge"/>
   </a>
@@ -13,5 +14,4 @@
   <a href="https://t.me/s_hhama">
     <img src="https://img.shields.io/badge/telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shhama&style=flat-square&color=blue" alt=""/>
 </div>
