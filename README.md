@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="100"/>
 </div>
 
----
 
 <div id="badges" align="center">
   <a href="https://vk.com/shhama">
