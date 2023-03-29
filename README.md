@@ -3,7 +3,8 @@
 </div>
 
 
-<div id="badges" align="center"> <img src="https://komarev.com/ghpvc/?username=shhama&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=shhama&style=flat-square&color=blue" alt=""/ align="center">
   <a href="https://vk.com/shhama">
     <img src="https://img.shields.io/badge/VKONTAKTE-white?logo=VK&logoColor=blue&style=for-the-badge" alt="VK Badge"/>
   </a>
