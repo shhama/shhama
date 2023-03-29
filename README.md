@@ -26,5 +26,5 @@
 
 --- 
   
-### p< :feelsgood: About Me :
-p< I am a beginner Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### p<. :feelsgood: About Me :
+p<. I am a beginner Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
