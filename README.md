@@ -25,6 +25,6 @@
 </div>
 
 --- 
-<div id="about me" align="center"> 
-### :feelsgood: About Me :
+
+:feelsgood: About Me :
 I am a beginner Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
