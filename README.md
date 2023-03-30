@@ -25,7 +25,7 @@
 
 ---
  
-### About Me :
+### About Me
 ### :feelsgood:
 Beginner Python developer :desktop_computer: :keyboard:. I enjoy learning new things :mag_right:. I like to read books in my free time. But not without video games	:joystick:.
    
