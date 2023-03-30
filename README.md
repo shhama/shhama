@@ -27,7 +27,7 @@
  
 ### About Me :
 :feelsgood:
-- Beginner Python developer. :desktop_computer: :desktop_computer:
--   
+Beginner Python developer. :desktop_computer: :keyboard:
+   
 
 
