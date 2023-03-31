@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/frNC8HLtwZjOLLPbV7/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/T3cG4taxiqAOZ7JzoE/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
